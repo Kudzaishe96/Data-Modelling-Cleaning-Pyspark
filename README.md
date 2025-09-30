@@ -30,10 +30,10 @@ CSV File from Tablue Website
 
    
 ### Data Extraction and Cleaning
-1. Call out various Api cals from chess.com
-2. Convert the data to pandas to spark dataframes
-3. Remove unecesary columns and add the countries column
-4. Extract it to the SQL Server
+1. Find and Initialise Pyspark
+2. Load data from csv file
+3. Create spark dataframes as Dimension Tables and facts tables
+4. Select the appropiate column per each dataframe for analysis
 
 
  #  The End
