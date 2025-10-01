@@ -35,5 +35,9 @@ CSV File from Tablue Website
 3. Create spark dataframes as Dimension Tables and facts tables
 4. Select the appropiate column per each dataframe for analysis
 
+### Tables 
+
+![alt text](image-1.png)
+
 
  #  The End
