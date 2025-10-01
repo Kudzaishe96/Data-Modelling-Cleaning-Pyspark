@@ -17,7 +17,7 @@ Demonstration of Data Cleaning and Data Modelling
 
 
 ## Data-Cleaning-Modelling-Pyspark-Architecture
-
+![alt text](image.png)
 
 
 ### Data Source
